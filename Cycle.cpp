@@ -10,7 +10,7 @@ using namespace std;
 
 #define number_of_producers 5
 #define arr_size 5
-
+//test auto stage
 //g++ -D_REENTRANT Cycle.cpp -o Cycle -lpthread
 //./Cycle
 int ind=1;
